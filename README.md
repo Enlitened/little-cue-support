@@ -1,6 +1,6 @@
-# Little Cue — site, support and privacy
+# Little Cues — site, support and privacy
 
-The public pages for Little Cue, a baby feed, sleep and nappy log for iPhone and Apple Watch. Published with
+The public pages for Little Cues, a baby feed, sleep and nappy log for iPhone and Apple Watch. Published with
 GitHub Pages from `main`.
 
 - Landing page — <https://enlitened.github.io/little-cue-support/> (the App Store listing's Marketing URL)
